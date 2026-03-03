@@ -1,0 +1,4 @@
+logs/
+tmp/
+dashboard-pro.py
+*.backup.*
