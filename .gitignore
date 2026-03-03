@@ -1,4 +1,6 @@
 logs/
 tmp/
 dashboard-pro.py
+whop-package/
+sandbox-guard-pro.tar.gz
 *.backup.*

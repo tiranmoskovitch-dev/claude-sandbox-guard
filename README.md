@@ -36,7 +36,7 @@ The AI never gets stuck. It either succeeds or gets told exactly how to succeed 
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-sandbox-guard.git
+git clone https://github.com/tiranmoskovitch-dev/claude-sandbox-guard.git
 cd claude-sandbox-guard
 bash install.sh
 ```
